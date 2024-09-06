@@ -15,11 +15,7 @@ export default function ComplexFooter() {
               Copyright ©
               <script>document.write(new Date().getFullYear())</script>
               &nbsp;2024 &nbsp;
-              <a
-                href="https://www.creative-tim.com"
-                className="text-dark"
-                target="_blank"
-              >
+              <a href="" className="text-dark" target="_blank">
                 Cargo 917
               </a>
               .
